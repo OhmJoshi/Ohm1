@@ -3,7 +3,7 @@ import tkinter as tk
 import datetime
 import qrcode
 import image
-
+#This is a QR code generator
 window=Tk()
 window.geometry("1000x500")
 window.title("QRcode generator")
